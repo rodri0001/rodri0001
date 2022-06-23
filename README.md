@@ -7,7 +7,7 @@
 <p>I am working on Full Stack Developer and SysAdmin and IT Manager.</p>
 
 <p><strong>Contact</strong></p>
-<p>Telegram : Rodriquez1337</p>
+<p>Telegram : Rodriquez0001</p>
 <p>Discord : Rodriquez#0001</p>
 
 
