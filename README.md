@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/iZCwFPz.gif" />
+<img src="https://jaydevs.com/wp-content/uploads/2021/12/2-5.jpg" />
 </p>
 
 <p><strong>About</strong></p>
