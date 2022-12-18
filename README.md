@@ -3,7 +3,7 @@
 </p>
 
 <p><strong>About</strong></p>
-<p>Greetings, I am Hakan, I live in Istanbul, I have worked in upper limit companies before and developed myself, then I founded my own company..</p>
+<p>No detailed information about me.</p>
 <p>I am working on Full Stack Developer and SysAdmin and IT Manager.</p>
 
 <p><strong>Contact</strong></p>
