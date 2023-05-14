@@ -7,7 +7,7 @@
 <p>I am working on Full Stack Developer and SysAdmin and IT Manager.</p>
 
 <p><strong>Contact</strong></p>
-<p>Telegram : Rodriquez0001</p>
+<p>Web: www.walden-roleplay.com - www.netmila.com</p>
 <p>Discord : Rodriquez#0001</p>
 
 
