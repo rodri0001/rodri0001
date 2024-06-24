@@ -3,7 +3,7 @@
 <p><strong>About</strong></p>
 <p>Hello, I'm Hakan
 
-13+ years of experienced backend developer. I have specialized in intranet applications and have worked with various technologies and methodologies during this time. Below are the main technologies and methodologies I have experience with:
+13+ years of experienced backend developer. I have specialized in intranet applications and have worked with various technologies and methodologies during this time. Below are the main technologies and methodologies I have experience with
 
 **Microservices:** I specialize in developing modular and scalable services.
 
@@ -13,7 +13,7 @@
 
 </p>
 
-<p>I am working on Front-end & Back-end Developer and SysAdmin, IT Manager.</p>
+<p>I am working on Back-end Developer and SysAdmin, IT Manager.</p>
 
 <p><strong>Contact</strong></p>
 <p>Web: www.walden-roleplay.com - www.waldenrpg.com</p>
