@@ -19,8 +19,7 @@
 <p>Web: www.walden-roleplay.com - www.waldenrpg.com</p>
 E-Mail : hakan@netmila.com
 
-Phone : +90 (850) 346 8502
-Phone : +90 (212) 993 1497
+Phone(Office) : +90 (850) 346 8502 - +90 (212) 993 1497
 
 
 
