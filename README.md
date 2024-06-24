@@ -17,7 +17,9 @@
 
 <p><strong>Contact</strong></p>
 <p>Web: www.walden-roleplay.com - www.waldenrpg.com</p>
-<p>Discord : Rodriquez#0001</p>
+<p>E-Mail : hakan@netmila.com</p>
+<p>Phone : +90 (850) 346 8502</p>
+<p>Phone : +90 (212) 993 1497</p>
 
 
 
