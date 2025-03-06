@@ -20,7 +20,7 @@
 
 Phone(Office) : +90 (850) 346 8502 - +90 (212) 993 1497
 
-Discord : wfbypass
+Discord : kvtil
 
 
 
