@@ -16,7 +16,6 @@
 <p>I am working on Back-end Developer and SysAdmin, IT Manager.</p>
 
 <p><strong>Contact</strong></p>
-<p>Web: www.walden-roleplay.com - www.waldenrpg.com</p>
 
 Phone(Office) : +90 (212) 993 1497
 
