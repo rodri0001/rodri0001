@@ -18,7 +18,7 @@
 <p><strong>Contact</strong></p>
 <p>Web: www.walden-roleplay.com - www.waldenrpg.com</p>
 
-Phone(Office) : +90 (850) 346 8502 - +90 (212) 993 1497
+Phone(Office) : +90 (212) 993 1497
 
 Discord : kvtil
 
