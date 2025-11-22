@@ -19,7 +19,7 @@
 
 Phone(Office) : +90 (212) 993 1497
 
-Discord : l7bp
+Discord : intikvm
 
 
 
