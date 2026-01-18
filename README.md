@@ -19,7 +19,7 @@
 
 Phone(Office) : +90 (212) 993 1497
 
-Discord : intikvm
+Discord : rodriq3z
 
 
 
